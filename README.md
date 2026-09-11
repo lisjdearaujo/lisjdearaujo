@@ -6,7 +6,7 @@
 
 ---
 
-<h3> About Me</h3>
+<h3>🪶 About Me</h3>
 
 - 🎓 Computer Science student (FIAP)
 - 🛡️ **WEB-RTA** certified
@@ -16,7 +16,7 @@
 
 ---
 
-<h3> Languages & Technologies</h3>
+<h3>💀 Languages & Technologies</h3>
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +27,7 @@
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/BURPSUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/NMAP-004080?style=for-the-badge&logo=nmap&logoColor=white)
-![Acronis](https://img.shields.io/badge/ACRONIS%20CYBER%20PROTECT-FF0000?style=for-the-badge&logo=acronis&logoColor=white)
+![Acronis](https://img.shields.io/badge/ACRONIS%20CYBER%20PROTECT-002664?style=for-the-badge&logo=acronis&logoColor=white)
 
 ---
 
@@ -41,6 +41,8 @@
 ![SIEM](https://img.shields.io/badge/SIEM-black?style=for-the-badge&logo=splunk&logoColor=green)
 ![SOAR](https://img.shields.io/badge/SOAR-black?style=for-the-badge&logo=automattic&logoColor=purple)
 ![OWASP](https://img.shields.io/badge/OWASP%20TOP%2010-black?style=for-the-badge&logo=owasp&logoColor=yellow)
+![NIST](https://img.shields.io/badge/NIST-black?style=for-the-badge&logo=nist&logoColor=00629B)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-black?style=for-the-badge&logo=mitre&logoColor=red)
 
 ---
 
