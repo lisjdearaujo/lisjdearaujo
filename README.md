@@ -1,22 +1,22 @@
-<h1 align="center">👋 Hey! It's Lisandra.</h1>
+<h1 align="center">Hey! It's Lisandra.</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="hacking gif"/>
+  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://chatgpt.com/backend-api/estuary/content?id=file_00000000f1f4820e9bf9a56b3e4bff74&ts=496991&p=fs&cid=1&sig=6a7e9a85741a49462dcd8eabb4a37be6da5fce205be3542f6c895280dcfdb527&v=0)" width="400" alt="hacking gif"/>
 </p>
 
 ---
 
-<h3>🪶 About Me</h3>
+<h3>About Me</h3>
 
-- 🎓 Computer Science student (FIAP)
+- 🎓 Computer Science student 
 - 🛡️ **WEB-RTA** certified
 - 🕵️ Information Security Analyst & Junior Penetration Tester
 - 🧪 Hands-on Web App Pentest labs (TryHackMe)
-- 🏢 Security Support Intern at Safetec BR
+- 🏢 Security Support Intern 
 
 ---
 
-<h3>💀 Languages & Technologies</h3>
+<h3>Languages & Technologies</h3>
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +31,7 @@
 
 ---
 
-<h3>🛰️ Cybersecurity Skills</h3>
+<h3>Cybersecurity Skills</h3>
 
 ![Pentest](https://img.shields.io/badge/PENTEST-black?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![EDR](https://img.shields.io/badge/EDR-black?style=for-the-badge&logo=shieldsdotio&logoColor=red)
@@ -46,7 +46,7 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h3>GitHub Stats</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=lisjdearaujo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
@@ -54,7 +54,7 @@
 
 ---
 
-<h3>⚓ Contact & Profiles</h3>
+<h3> Contact & Profiles</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandraraujoj/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisandra.j.araujo@gmail.com)
