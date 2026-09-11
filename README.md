@@ -1,7 +1,7 @@
 <h1 align="center">Hey! It's Lisandra.</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="hacking gif"/>
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000f1f4820e9bf9a56b3e4bff74&ts=496991&p=fs&cid=1&sig=6a7e9a85741a49462dcd8eabb4a37be6da5fce205be3542f6c895280dcfdb527&v=0" width="400" alt="hacking gif"/>
 </p>
 
 ---
