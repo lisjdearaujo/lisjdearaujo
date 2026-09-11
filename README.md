@@ -6,7 +6,7 @@
 
 ---
 
-<h3>🪶 About Me</h3>
+<h3> About Me</h3>
 
 - 🎓 Computer Science student (FIAP)
 - 🛡️ **WEB-RTA** certified
@@ -16,7 +16,7 @@
 
 ---
 
-<h3>💀 Languages & Technologies</h3>
+<h3> Languages & Technologies</h3>
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
