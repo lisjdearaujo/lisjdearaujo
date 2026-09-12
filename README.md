@@ -46,15 +46,10 @@
 
 ---
 
-<h3>GitHub Stats</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=lisjdearaujo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisjdearaujo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-
----
-
 <h3>Profiles</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandraraujoj/)
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/lis4n)
+[![Hack The Box](https://img.shields.io/badge/HACK%20THE%20BOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d0d61-00c6-7346-b880-96f91171bcd4?utm_medium=copy_url)
+
+
