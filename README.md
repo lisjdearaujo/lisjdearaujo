@@ -1,7 +1,7 @@
 <h1 align="center">Hey! It's Lisandra.</h1>
 
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000f1f4820e9bf9a56b3e4bff74&ts=496991&p=fs&cid=1&sig=6a7e9a85741a49462dcd8eabb4a37be6da5fce205be3542f6c895280dcfdb527&v=0" width="400" alt="hacking gif"/>
+  <img src="https://ibb.co/RtryD0T" width="400" alt="hacking gif"/>
 </p>
 
 ---
@@ -54,8 +54,7 @@
 
 ---
 
-<h3> Contact & Profiles</h3>
+<h3>Profiles</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisandraraujoj/)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisandra.j.araujo@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
